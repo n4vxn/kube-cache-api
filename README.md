@@ -120,8 +120,3 @@ curl -H "X-User-ID: bob" "http://localhost:8080/pods"
 - Add metrics (cache hits/misses, request latency).
 - Add authentication/authorization.
 - Build a frontend to consume the API.
-
----
-
-## License
-MIT
